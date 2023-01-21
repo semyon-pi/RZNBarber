@@ -8,3 +8,7 @@
 .bg-main {
     background-image: url('../assets/mainBg.jpg');
 }
+
+.bg-tools {
+    background-image: url('../assets/tools.jpg');
+}

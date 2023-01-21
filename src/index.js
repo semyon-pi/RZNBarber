@@ -13,3 +13,5 @@ button.addEventListener("click", function () {
         div.classList.add("absolute", "top-0", "h-screen", "left-[-100%]", "ease-in", "duration-500");
     }
 });
+
+
