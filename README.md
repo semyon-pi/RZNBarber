@@ -1,9 +1,9 @@
-Barbershop Studio Amsterdam
+<h1>Barbershop Studio Amsterdam</h1>
 Welcome to the GitHub repository for the website of Barbershop Studio Amsterdam!
 
 This website is built using HTML, JavaScript, and Tailwind CSS. It is hosted on Netlify, and provides information about the services offered by our barbershop, as well as information about our team, prices, and location.
 
-Installation
+<h2>Installation</h2>
 To run this website locally, you will need to have a web server installed. One option is to use a package like http-server for Node.js.
 
 Clone this repository: git clone https://github.com/your-username/barbershop-studio-amsterdam.git
