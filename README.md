@@ -6,7 +6,7 @@ This website is built using HTML, JavaScript, and Tailwind CSS. It is hosted on 
 <h2>Installation</h2>
 To run this website locally, you will need to have a web server installed. One option is to use a package like http-server for Node.js.
 
-Clone this repository: git clone https://github.com/your-username/barbershop-studio-amsterdam.git
+Clone this repository: git clone https://github.com/semyon-pi/RZNBarber.git
 Install dependencies: npm install
 Start the development server: npm start
 
